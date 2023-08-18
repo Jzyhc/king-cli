@@ -22,8 +22,3 @@ $ npx create king-cli hello-cli -template dumi2-demo
 $ king-cli create <name> [-t|--template]
 示例
 $ king-cli create hello-cli -t dumi2-demo
-
-作者：Ausra无忧
-链接：https://juejin.cn/post/7236021829000446011
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
